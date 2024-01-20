@@ -8,3 +8,7 @@ This is an undergraduate research project between ERAU and Argonne national lab.
 *anything here syncs to overleaf*
 ### code
 *this will be where code goes if I am not using a notebook*
+### supplemental_materials
+#### git
+#### python
+#### ml
