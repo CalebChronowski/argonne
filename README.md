@@ -6,8 +6,15 @@ This is an undergraduate research project between ERAU and Argonne national lab.
 *anything in here syncs to Colab*
 ### reports
 *anything here syncs to overleaf*
-### code
-*this will be where code goes if I am not using a notebook*
+### main
+#### code
+*this will be where code goes*
+#### data
+*where data lives*
+##### raw
+##### clean
+#### writing
+*contains the most up to date presentation and reports along with any other documents that need a place to live*
 ### supplemental_materials
 #### git
 #### python
