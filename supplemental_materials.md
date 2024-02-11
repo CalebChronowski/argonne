@@ -13,9 +13,12 @@ My hope is that we can all extend this document, and that whenever we're feeling
 
 # ml
 * (list) https://statquest.org/video-index/ high quality videos on statistics and ml.
+* (2) https://www.pnnl.gov/explainer-articles/physics-informed-machine-learning five minute read from pnnl, overview of physics informed machine learning 
 
 # papers relevant to our specific project
 * (1) here's a 1 hour lecture explaining a paper on FNOs: https://www.youtube.com/watch?v=IaS72aHrJKE
 * (1) the paper: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblh4SGt6bHNNTHMweVhPYWN2MVQwTUcwX0l2Z3xBQ3Jtc0ttaDdfd3owXzRDaGF5SlBnSFpsVDRFaFllZkZRU0EzYk9wS1NjS0pPaW55bjBvbnpEelRzOGVwVzVVdDlreFBlRmwtX0lENjh6Q0VNNkdEd1hRZkJxdUJDMjJMYUJ6RVFCWk14SnNvci1pQllCNmQxaw&q=https%3A%2F%2Farxiv.org%2Fabs%2F2010.08895&v=IaS72aHrJKE
 * (1) honestly, idk if this will be useful but it is a somewhat similar problem: https://www.youtube.com/watch?v=y5EJr4ofGOc
+* (1) https://arxiv.org/pdf/2010.08895.pdf fourier neural operator paper for pdes, out of caltech 2021
+* (3) overview of fourier series (add 3b1b)
 
